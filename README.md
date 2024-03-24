@@ -15,6 +15,7 @@ The major challenge is that the statistical properties of spam tweets change ove
 So, this proposed system came up with a solution to handle the drifted spam using semi-supervised learning approach.
 
 #Phases Of Execution 
+
 K-Nearest Neighbours (KNN)
 Naive Bayes (NB) 
 Support Vector Machine (SVM)
